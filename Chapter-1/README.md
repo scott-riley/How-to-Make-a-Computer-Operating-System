@@ -33,3 +33,7 @@ The OS will be built for the x86 architecture, running on 32 bits, and compatibl
     * API Posix
     * LibC
     * "Can" run a shell or some executables (e.g., lua)
+
+### Sneaky Sneaky
+
+[Here's a link](./Chapter1-1) to something a bit different.

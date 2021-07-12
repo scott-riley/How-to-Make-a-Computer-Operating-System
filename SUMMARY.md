@@ -21,4 +21,4 @@
 * Standard C library (libC)
 * UNIX basic tools: sh, cat
 * Lua interpreter
-
+* [A hidden thing](Chapter-1/Chapter1-1)
