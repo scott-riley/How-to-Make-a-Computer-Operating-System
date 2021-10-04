@@ -1,6 +1,6 @@
 # Introduction
 
-Online book about how to write a computer operating system in C/C++ from scratchy scratch.
+Online book about how to write a computer operating system in C/C++ from scratchy scratchy scratch scratch.
 
 **Caution**: This repository is a remake of my old course. It was written several years ago [as one of my first projects when I was in High School](https://github.com/SamyPesse/devos), I'm still refactoring some parts. The original course was in French and I'm not an English native. I'm going to continue and improve this course in my free-time.
 
