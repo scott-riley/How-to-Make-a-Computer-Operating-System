@@ -14,18 +14,6 @@ Online book about how to write a computer operating system in C/C++ from scratch
 
 You can follow me on Twitter [@SamyPesse](https://twitter.com/SamyPesse) or [GitHub](https://github.com/SamyPesse).
 
-{% swagger method="get" path="/users" baseUrl="https://app.com" summary="Get a user" %}
-{% swagger-description %}
-asfsdgtdfhf
-{% endswagger-description %}
-
-{% swagger-parameter in="path" name="ID" type="String" %}
-The ID
-{% endswagger-parameter %}
-
-{% swagger-response status="200: OK" description="Alright!" %}
-{% endswagger %}
-
 {% swagger src="https://petstore.swagger.io/v2/swagger.json" path="undefined" method="undefined" %}
 [https://petstore.swagger.io/v2/swagger.json](https://petstore.swagger.io/v2/swagger.json)
 {% endswagger %}
