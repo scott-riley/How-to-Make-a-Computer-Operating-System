@@ -23,7 +23,11 @@ asfsdgtdfhf
 The ID
 {% endswagger-parameter %}
 
-{% swagger-response status="200: OK" description="" %}
+{% swagger-response status="200: OK" description="Alright!" %}
+{% endswagger %}
+
+{% swagger src="https://petstore.swagger.io/v2/swagger.json" path="undefined" method="undefined" %}
+[https://petstore.swagger.io/v2/swagger.json](https://petstore.swagger.io/v2/swagger.json)
 {% endswagger %}
 
 ### What kind of OS are we building?
