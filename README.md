@@ -14,10 +14,22 @@ Online book about how to write a computer operating system in C/C++ from scratch
 
 You can follow me on Twitter [@SamyPesse](https://twitter.com/SamyPesse) or [GitHub](https://github.com/SamyPesse).
 
+{% swagger method="get" path="/users" baseUrl="https://app.com" summary="Get a user" %}
+{% swagger-description %}
+asfsdgtdfhf
+{% endswagger-description %}
+
+{% swagger-parameter in="path" name="ID" type="String" %}
+The ID
+{% endswagger-parameter %}
+
+{% swagger-response status="200: OK" description="" %}
+{% endswagger %}
+
 ### What kind of OS are we building?
 
 The goal is to build a very simple UNIX-based operating system in C++, not just a "proof-of-concept". The OS should be able to boot, start a userland shell, and be extensible.
 
 ![Screen](preview.png)
 
-`ERROR
+\`ERROR
