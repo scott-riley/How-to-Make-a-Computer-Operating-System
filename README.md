@@ -14,10 +14,6 @@ Online book about how to write a computer operating system in C/C++ from scratch
 
 You can follow me on Twitter [@SamyPesse](https://twitter.com/SamyPesse) or [GitHub](https://github.com/SamyPesse).
 
-{% swagger src="https://petstore.swagger.io/v2/swagger.json" path="undefined" method="undefined" %}
-[https://petstore.swagger.io/v2/swagger.json](https://petstore.swagger.io/v2/swagger.json)
-{% endswagger %}
-
 HERE WE GO!
 
 ### What kind of OS are we building?
